@@ -1,0 +1,17 @@
+body {
+    background-image: url('background.png');
+    background-repeat: repeat;
+}
+
+h1 {
+    background-color: hsl(273, 43%, 35%);
+    padding: 10px;
+    font-family: monospace;
+    font-size: xxx-large;
+    border: 2px solid hsla(273, 43%, 26%,30%);
+}
+
+a {
+    font-family: Verdana;
+    color:  hsla(246, 92%, 41%, 0.863);
+}
