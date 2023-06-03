@@ -1,2 +1,2 @@
 # wiki-test
-Bu bir deneme sürümüdür 
+Bu bir deneme sürümüdür
