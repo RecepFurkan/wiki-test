@@ -8,9 +8,12 @@ h1 {
     background-color: hsl(274, 44%, 29%);
     margin: auto;
     padding: 10px;
+    padding-block-end: 4%;
+    padding-block-start: 3%;
     font-family: monospace;
     font-size: xxx-large;
     border: 2px solid hsl(272, 42%, 14%);
+    text-align: center;
 }
 
 a:link, :visited {
@@ -24,12 +27,3 @@ a:link, :visited {
 }
 
 
-a {
-    font-family: Verdana;
-    color:  hsla(327, 92%, 41%, 0.863);
-}
-
-b {
-    font-family: 'Times New Roman', Times, serif;
-    color: chartreuse;
-}
