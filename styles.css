@@ -6,6 +6,7 @@ body {
 h1 {
     color: #000000;
     background-color: hsl(274, 44%, 29%);
+    margin: auto;
     padding: 10px;
     font-family: monospace;
     font-size: xxx-large;
@@ -14,5 +15,11 @@ h1 {
 
 a {
     font-family: Verdana;
-    color:  hsla(246, 92%, 41%, 0.863);
+    
+    color:  hsla(327, 92%, 41%, 0.863);
+}
+
+b {
+    font-family: 'Times New Roman', Times, serif;
+    color: chartreuse;
 }
