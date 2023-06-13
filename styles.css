@@ -35,13 +35,14 @@ img {
     height:33px;
 }
 
-p {
+pre {
     padding: 10px;
     background-image: url("yazı-background.png");
     background-size: auto;
     text-align: center;
     position: relative;
     top: -16px;
+    font-family: 'Times New Roman';
     
     
 }
