@@ -4,12 +4,12 @@ body {
 }
 
 h1 {
-    color: #000000;
+    color: #00000065;
     background-color: hsl(274, 44%, 29%);
     margin: auto;
     padding: 10px;
-    padding-block-end: 4%;
-    padding-block-start: 3%;
+    padding-block-end: 2%;
+    padding-block-start: 2%;
     font-family: monospace;
     font-size: xxx-large;
     border: 2px solid hsl(272, 42%, 14%);
@@ -17,8 +17,9 @@ h1 {
 }
 
 a:link, :visited {
+    /*font-family: 'Times New Roman', Times, serif;*/
     background-color: hsl(274, 44%, 29%);
-    color: rgb(0, 0, 0);
+    color: hsla(0, 0%, 0%, 0.438);
     border: 2px solid hsl(272, 42%, 14%);
     padding: 5px 25px;
     text-align: center;
@@ -26,4 +27,22 @@ a:link, :visited {
     display: inline-block;
 }
 
+img {
+    background-color: hsl(272, 42%, 14%);
+    /*!>border: 3px solid hsl(272, 42%, 14%);*/
+    float:left;
+    width:33px;
+    height:33px;
+}
+
+p {
+    padding: 10px;
+    background-image: url("yazı-background.png");
+    background-size: auto;
+    text-align: center;
+    position: relative;
+    top: -16px;
+    
+    
+}
 
